@@ -1,2 +1,0 @@
-# BinarySearch
-Created with CodeSandbox
